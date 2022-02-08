@@ -1,6 +1,8 @@
+//Definizione pin utilzzati per bottone e LED
 #define BUT 2
 #define LED 3
 
+//Definizione degli stati del pulsante. Il primo di ritenuta, il secondo per memorizzare lo stato passato dello stesso
 int    iBut = 0;
 int iButOld = 0;
 
