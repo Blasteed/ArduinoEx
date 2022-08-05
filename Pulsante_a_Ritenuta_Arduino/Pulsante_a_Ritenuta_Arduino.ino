@@ -14,7 +14,7 @@ void setup ()
   pinMode ( LED, OUTPUT );
 }
 
-void loop()
+void loop ()
 {
   
   // Attivazione della lettura digitale del pin del pulsante
